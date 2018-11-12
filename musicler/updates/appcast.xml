@@ -6,5 +6,6 @@
 <pubDate>Mon, 12 Nov 2018 16:33:52 -0500</pubDate>
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
 <enclosure url="https://andrewhyatt.us/musicler/updates/Musicler-1.4.5.zip" sparkle:version="12" sparkle:shortVersionString="1.4.5" length="18342293" type="application/octet-stream"/>
+<sparkle:releaseNotesLink>https://andrewhyatt.us/musicler/updates/Musicler-1.4.5.html</sparkle:releaseNotesLink>
 </item>
 </channel></rss>
