@@ -9,7 +9,7 @@
 </ul>
 ]]></description>
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-<enclosure url="https://www.andrewhyatt.us/musicler/updates/Musicler-1.4.5.zip" sparkle:version="13" sparkle:shortVersionString="1.4.5" length="18264352" type="application/octet-stream" sparkle:edSignature="MEQCID9S6v1x0hvhcwdka4dFHECfKSl0KV84/zl3WfR7kXUdAiBz8ecFpiWs7nO1
+<enclosure url="https://www.andrewhyatt.us/musicler/updates/Musicler-1.4.5.zip" sparkle:version="13" sparkle:shortVersionString="1.4.5" length="18264352" type="application/octet-stream" sparkle:dsaSignature="MEQCID9S6v1x0hvhcwdka4dFHECfKSl0KV84/zl3WfR7kXUdAiBz8ecFpiWs7nO1
 cDp/xGr988agI0H4nB02l4yeN/wPEg=="/>
 </item>
 </channel></rss>
