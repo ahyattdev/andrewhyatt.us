@@ -2,14 +2,26 @@
 <channel>
 <title>Musicler</title>
 <item>
+<title>1.4.6</title>
+<pubDate>Tue, 20 Aug 2019 11:39:05 -0400</pubDate>
+<description><![CDATA[<ul>
+	<li>Remove Optional() from track and disc counts</li>
+</ul>
+]]></description>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://www.andrewhyatt.us/musicler/updates/Musicler-1.4.6.zip" sparkle:version="14" sparkle:shortVersionString="1.4.6" length="18267218" type="application/octet-stream" sparkle:dsaSignature="MEUCIQCGxX9LRhwAwFujFTYJG8apHdfK3mKAPmmWiW3UEp/+LgIgQ1P/wIHQeWuo
+oTTf4pMRd/otNlbm9gYGA27kVDWvwn0="/>
+</item>
+
+<item>
 <title>1.4.5</title>
-<pubDate>Tue, 18 Jun 2019 21:56:05 -0400</pubDate>
+<pubDate>Tue, 20 Aug 2019 11:33:49 -0400</pubDate>
 <description><![CDATA[<ul>
 	<li>Fix fetching results</li>
 </ul>
 ]]></description>
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
 <enclosure url="https://www.andrewhyatt.us/musicler/updates/Musicler-1.4.5.zip" sparkle:version="13" sparkle:shortVersionString="1.4.5" length="18264352" type="application/octet-stream" sparkle:dsaSignature="MEQCIEd+NjjM/jmOTWW1/vbeag8UXS+YrEKZxG6EdaZJTphxAiBXzz9vG4sbyseo
-Z7YEkxGtW5j3LM00OZwaqS+iHTQJLA=="/>
+-Z7YEkxGtW5j3LM00OZwaqS+iHTQJLA=="/>
 </item>
 </channel></rss>

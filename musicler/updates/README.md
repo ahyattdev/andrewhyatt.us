@@ -1,4 +1,4 @@
-`generate_appcast -f ~/Documents/dsa_priv.pem .`
+`generate_appcast -f ~/Documents/dsa_priv.pem archives`
 
 `sign_update Musicler-1.4.5.zip ~/Documents/dsa_priv.pem`
 
