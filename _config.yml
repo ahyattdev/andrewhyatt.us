@@ -16,7 +16,7 @@
 title: Andrew Hyatt
 email: find-my-email-on-the-about-page@not.my.email
 description: >- # this means to ignore newlines until "baseurl:"
-  All things macOS, iOS, and GNU/Linux.
+  Abandoned website. Might be rebuilt with the site generator de jure one day.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.andrewhyatt.us" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ahyattdev
